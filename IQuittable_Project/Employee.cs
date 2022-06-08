@@ -11,7 +11,7 @@ namespace IQuittable_Project
         {
             Console.WriteLine(firstName + " " + lastName);
         }
-        public void Quittable(Employee employee)
+        public void Quit()
         {
             
         }

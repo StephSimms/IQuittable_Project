@@ -6,6 +6,11 @@ namespace IQuittable_Project
 {
     interface IQuittable
     {
-        void Quittable(Employee employee);
+        public void Quit()
+        {
+
+
+            
+        }
     }
 }
